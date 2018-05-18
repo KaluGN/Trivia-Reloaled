@@ -8,5 +8,5 @@ Datos:
 
 - Turno: Mañana
 
-- Alumna: [Katerine Guzman] <http://facebook.com/kalugn>
+- Alumna: [Katerine Guzman]<http://facebook.com/kalugn>
 
